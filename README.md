@@ -1,4 +1,6 @@
 it empty the trash for you
 
-can be interrupted by pressing ctrl + c  
+can be exit by pressing ctrl + z
+
+https://github.com/NoahSwinamer/trash-script-/issues
 
